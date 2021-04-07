@@ -39,6 +39,7 @@ client.on('message', message => {
         
     } catch (e) {
         console.log(e);
+        //catch
     }
 
 
