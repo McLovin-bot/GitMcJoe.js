@@ -1,0 +1,16 @@
+{
+  "name": "js-thang",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "__McLovin",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "dev": "nodemon"
+  }
+}
